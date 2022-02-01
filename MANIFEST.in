@@ -33,7 +33,6 @@ include dist/*.tgz
 
 recursive-exclude * __pycache__
 recursive-exclude * *.py[co]
-recursive-exclude */tests *
 
 recursive-include elyra/metadata/schemas *
 recursive-include elyra/templates *
